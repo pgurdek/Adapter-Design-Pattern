@@ -4,5 +4,10 @@
 <pre>
 Integer[] arrayOfInts = new Integer[] {42,43,44 }; 
 List<Integer> listofInts = Arrays.asList(arrayOfInts) ##It adapt array of integers to List
-
 </pre>
+
+
+####    Works after code is designed
+####    Legacy
+####    Retrofitted
+####    Provides different interface
