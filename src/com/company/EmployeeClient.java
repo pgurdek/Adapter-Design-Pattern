@@ -24,7 +24,11 @@ public class EmployeeClient {
 		EmployeeCSV employeeFromCSV = new EmployeeCSV("567,Sherlock,Holmes,sherlock@holmes.com");
 		
 		employees.add(new EmployeeAdapterCSV(employeeFromCSV));
-		
+
+		EmployeeCloud employeeCloud1 = new EmployeeCloud(55,"I will Adapt","WithoutChaning Code","pp@gmail.com");
+
+		employees.add(new EmployeeAdapterCloud(employeeCloud1));
+
 		return employees;
 		
 	}
