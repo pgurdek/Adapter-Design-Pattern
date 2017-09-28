@@ -11,3 +11,13 @@ List<Integer> listofInts = Arrays.asList(arrayOfInts) ##It adapt array of intege
 ####    Legacy
 ####    Retrofitted
 ####    Provides different interface
+
+
+## Summary
+• Simple solution
+
+• Easy to implement
+
+• Integrate with Legacy
+
+• Can provide multiple adapters
